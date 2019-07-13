@@ -1,4 +1,4 @@
-# random
+# python random
 #def used
 import random
 def getAnswer(answerNumber):
